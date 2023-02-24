@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priya
 - 👀 I’m interested in working on new cloud techologies.
-- 🌱 I’m currently learning Kubernetes Controllers and Operators.
+- 🌱 I’m currently learning Kubernetes Controllers, Operators and other cloud based applications.
 - 💞️ I’m looking to collaborate on Cloud Native Applications.
 - 📫 Reach me at priya.sharma6693@gmail.com or https://www.linkedin.com/in/priya-sharma-a33957100/
 
